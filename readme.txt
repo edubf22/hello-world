@@ -1,2 +1,2 @@
-Hello, Pikachu
+Hey, Pikachu
 I choose you!
